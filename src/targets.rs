@@ -1909,6 +1909,7 @@ mod tests {
             "x86_64-unknown-freebsd",
             "x86_64-unknown-fuchsia",
             "x86_64-unknown-haiku",
+            "x86_64-unknown-helenos",
             "x86_64-unknown-hermit-kernel", // Changed to x86_64-unknown-none-hermitkernel in 1.53.0
             "x86_64-unknown-hermit",
             "x86_64-unknown-illumos",
