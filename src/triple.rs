@@ -133,6 +133,7 @@ impl Triple {
             | OperatingSystem::Fuchsia
             | OperatingSystem::Haiku
             | OperatingSystem::Hermit
+            | OperatingSystem::Helenos
             | OperatingSystem::Hurd
             | OperatingSystem::L4re
             | OperatingSystem::Linux
